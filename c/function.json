@@ -5,7 +5,7 @@
     {
       "type": "serviceBusTrigger",
       "connection": "SERVICE_BUS_CONNECTION_STRING",
-      "queueName": "elx",
+      "queueName": "bmarkl-storage-queue",
       "isSessionsEnabled": false,
       "name": "myQueueItem"
     }

@@ -5,7 +5,7 @@
     {
       "type": "queueTrigger",
       "connection": "STORAGE_QUEUE_CONNECTION_STRING",
-      "queueName": "elx",
+      "queueName": "bmarkl-storage-queue",
       "name": "myQueueItem"
     }
   ],
