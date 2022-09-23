@@ -14,5 +14,5 @@
   ],
   "disabled": false,
   "scriptFile": "../bin/csharpguitarbugs-function.dll",
-  "entryPoint": "csharpguitarbugs_function.e.Run"
+  "entryPoint": "bmarkl-bug-app.e.Run"
 }
